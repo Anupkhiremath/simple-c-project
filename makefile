@@ -4,6 +4,5 @@ main.o:main.c
         gcc -c main.c
 big.o:big.c
         gcc -c big.c
-fact.0:fact.c
+fact.o:fact.c
         gcc -c fact.c
-
